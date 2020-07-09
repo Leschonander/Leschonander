@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is **Lars Schonander**. I am a data person.
+
+I run a data journalism newsletter called [The Aggergate](https://theaggregate.substack.com/)
+
 <!--
 **Leschonander/Leschonander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
