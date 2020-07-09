@@ -1,5 +1,3 @@
-### Hi there 👋
-
 My name is **Lars Schonander**. I am a data person.
 
 I run a data journalism newsletter called [The Aggergate](https://theaggregate.substack.com/)
